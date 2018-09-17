@@ -1,5 +1,5 @@
 _repo: Craven-s-Part-in-the-Great-War_52157
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Brayshaw, Thomas
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1931
     gutenberg_agent_id: '46695'
     url: http://www.gutenberg.org/2009/agents/46695
+covers:
+- cover_type: archival
+  image_path: 52157-h/images/cover.jpg
 creator:
   author:
     agent_name: Clayton, John T.
     gutenberg_agent_id: '46701'
     url: http://www.gutenberg.org/2009/agents/46701
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52157#Craven-s-Part-in-the-Great-War
 gutenberg_issued: '2016-05-25'
 gutenberg_type: Text
 identifiers:
