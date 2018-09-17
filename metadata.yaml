@@ -1,0 +1,32 @@
+_repo: Craven-s-Part-in-the-Great-War_52157
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Brayshaw, Thomas
+    birthdate: 1856
+    deathdate: 1931
+    gutenberg_agent_id: '46695'
+    url: http://www.gutenberg.org/2009/agents/46695
+creator:
+  author:
+    agent_name: Clayton, John T.
+    gutenberg_agent_id: '46701'
+    url: http://www.gutenberg.org/2009/agents/46701
+description: ''
+gutenberg_issued: '2016-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- England -- Craven (District) -- Registers'
+- !lcc 'D501'
+- !lcsh 'Craven (England : District) -- Registers'
+- !lcsh 'World War, 1914-1918 -- Registers of dead -- England -- Craven (District)'
+- !lcsh 'World War, 1914-1918 -- Campaigns'
+- GITenberg
+title: Craven's Part in the Great War
+url: http://www.gutenberg.org/ebooks/52157
